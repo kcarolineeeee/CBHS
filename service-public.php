@@ -67,130 +67,101 @@
         <h2 class="text-center mb-4 fw-bold display-5 text-uppercase">OUR <span style="color: #0d6efd;">SERVICES</span></h2>
         <hr class="w-25 mx-auto mb-5">
 
-        <!-- Online Medical Consultation -->
+        <!-- Primary Health Consultations -->
         <div class="row service-row align-items-center service-content mb-5"> 
             <div class="col-md-6 image-container"> 
-                <img src="https://storage.googleapis.com/studio-cms-assets/projects/Jgqe6pzBak/s-2400x1600_v-frms_webp_f88ab923-ffc7-4deb-98b5-c81a9ca89083_middle.webp" alt="Online Medical Consultation" class="img-fluid rounded-3 mb-4 mb-md-0">
+                <img src="https://files01.pna.gov.ph/category-list/2024/03/12/bgo-philhealth-konsulta-package-first-patient-encounter-march-12-2024lta.jpg" alt="Primary Health Consultations" class="img-fluid rounded-3 mb-4 mb-md-0">
             </div>
             <div class="col-md-6">
-                <h5 class="fw-bold mb-3" style="color: #0d6efd;">Online Medical Consultation</h5>
+                <h5 class="fw-bold mb-3" style="color: #0d6efd;">Primary Health Consultations</h5>
                 <hr class="w-100 mb-3">
-                <p>Online consultations allow you to see your usual medical professional from the comfort of your own home or workplace.
-                    It won't be all that different from your typical visit because you will be speaking with the doctor in person. We will
-                    carefully listen to your concerns even though we are unable to perform physical examinations like testing or listening
-                    to your heartbeat. Feel free to ask any questions you may have.</p>
+                <p>Visiting the health center for a primary consultation means you’re taking the first step toward feeling better.
+                   Whether you’re dealing with a fever, cough, body aches, or just feeling off, our team is here to listen and help. 
+                   You’ll be seen by a doctor or nurse who will talk with you about your symptoms, check your vital signs,
+                   and provide the care you need. While it might not always be a serious illness, it’s important to have your concerns 
+                   checked early to avoid complications. We’re also here for routine check-ups or advice on managing conditions like 
+                   high blood pressure or diabetes. Don’t hesitate to ask questions, your health and peace of mind matter to us.</p>
             </div>
         </div>
 
-        <!-- E-Prescriptions -->
+        <!-- Immunizations -->
         <div class="row service-row align-items-center service-content mb-5">
             <div class="col-md-6 order-md-2 image-container"> 
-                <img src="https://img.freepik.com/premium-photo/male-doctor-hand-hold-prescription_151013-12053.jpg" alt="E-Prescriptions" class="img-fluid rounded-3 mb-4 mb-md-0">
+                <img src="https://www.unicef.org/philippines/sites/unicef.org.philippines/files/styles/press_release_feature/public/UNIPH2019060_0.jpg.webp?itok=XCM2D3dS" alt="Immunizations" class="img-fluid rounded-3 mb-4 mb-md-0">
             </div>
             <div class="col-md-6 order-md-1">
-                <h5 class="fw-bold mb-3" style="color: #0d6efd;">E-Prescriptions</h5>
+                <h5 class="fw-bold mb-3" style="color: #0d6efd;">Immunizations</h5>
                 <hr class="w-100 mb-3">
-                <p>Our system makes it super easy to get your meds through E-Prescriptions.
-                    Doctors can send prescriptions directly through the platform, so you can
-                    get them safely and quickly from any pharmacy you choose. Plus, it keeps
-                    a digital record of all your prescriptions, so you don’t have to worry about losing them!</p>
+                <p>Vaccines are one of the most effective ways to protect yourself and your loved ones from dangerous diseases. 
+                   Whether it's your child's first injections or your annual flu vaccine, we make the process easy and safe.  
+                   Our experts will explain what each vaccine is for and when you need it.  It is acceptable to ask questions—many
+                   parents and patients do.  We're here to provide you with the information you require while also ensuring that you
+                   feel secure and at ease throughout the process.</p>
             </div>
         </div>
 
-        <!-- Appointment Scheduling -->
+        <!-- Nutrition Programs -->
         <div class="row service-row align-items-center service-content mb-5">
             <div class="col-md-6 image-container"> 
-                <img src="https://img.freepik.com/premium-photo/doctor-with-stethoscope-writing-with-pen-about-patient-treatment-scheduling-appointments-woman-lab-coat-sitting-table-with-laptop-health-care-medicine-concept_361816-4910.jpg" alt="Appointment Scheduling" class="img-fluid rounded-3 mb-4 mb-md-0">
+                <img src="https://www.bworldonline.com/wp-content/uploads/2022/11/free-medicine.jpg" alt="Nutrition Programs" class="img-fluid rounded-3 mb-4 mb-md-0">
             </div>
             <div class="col-md-6">
-                <h5 class="fw-bold mb-3" style="color: #0d6efd;">Appointment Scheduling</h5>
+                <h5 class="fw-bold mb-3" style="color: #0d6efd;"> Nutrition Programs </h5>
                 <hr class="w-100 mb-3">
-                <p>Our Appointment Scheduling function makes it simple to manage your medical visits.
-                    View available times, schedule organize your doctor's appointments online, and
-                    get timely reminders. You have complete control over your healthcare schedule by
-                    being able to easily rearrange or withdraw appointments.</p>
+                <p>Good diet is the foundation of good health, particularly in children and mothers.  
+                   If you're concerned about your weight, growth, or what meals to prepare, we've got
+                   you covered.  Our team can help you track your child's progress, provide feeding 
+                   suggestions, and even supply vitamin supplements as needed.  We also help underweight
+                   or malnourished people through special nutrition programs.  You don't have to figure 
+                   it out on your own; we're here to assist you establish healthy habits for your family.</p>
             </div>
         </div>
 
-        <!-- Patient Registration and Medical Records -->
+        <!-- Environmental and Sanitation Services -->
         <div class="row service-row align-items-center service-content mb-5">
             <div class="col-md-6 order-md-2 image-container"> 
-                <img src="https://caas.athenahealth.com/sites/default/files/2024/11/Patientportal_benefits_Hero_1080x607.png" alt="Patient Registration" class="img-fluid rounded-3 mb-4 mb-md-0">
+                <img src="https://cdn.who.int/media/images/default-source/imported/children-water.jpg" alt="Environmental and Sanitation Services" class="img-fluid rounded-3 mb-4 mb-md-0">
             </div>
             <div class="col-md-6 order-md-1">
-                <h5 class="fw-bold mb-3" style="color: #0d6efd;">Patient Registration and Medical Records</h5>
+                <h5 class="fw-bold mb-3" style="color: #0d6efd;">Environmental and Sanitation Services</h5>
                 <hr class="w-100 mb-3">
-                <p>Our Patient Registration system is simple and secure, designed to make your healthcare experience a lot easier.
-                    When you sign up, you’ll create a digital health profile that holds all your important medical information in one place.
-                    You can store things like your contact details, medical history, allergies, medications, and more, making it easy
-                    to keep track of everything whenever you need it.</p>
+                <p>Maintaining cleanliness in our environment is just as important as being healthy ourselves. 
+                   That's why we collaborate with the community to promote safe drinking water, clean-up campaigns,
+                   and disease prevention measures like dengue and leptospirosis.  We think that a clean environment 
+                   protects everyone, particularly children and the elderly.  If you have any issues regarding water 
+                   safety, or garbage disposal, we are here to assist and advise you</p>
             </div>
         </div>
 
-        <!-- Health Monitoring and Follow-ups -->
-        <div class="row service-row align-items-center service-content mb-5">
+
+         <!-- Health Education  -->
+         <div class="row service-row align-items-center service-content mb-5">
             <div class="col-md-6 image-container"> 
-                <img src="https://media.assettype.com/gulfnews/import/2020/02/04/200204-doctor_1700ebe6a0c_large.jpg?w=1200&h=675&auto=format,compress&fit=max&enlarge=true" alt="Health Monitoring and Follow-ups" class="img-fluid rounded-3 mb-4 mb-md-0">
+                <img src="https://scontent.fmnl17-2.fna.fbcdn.net/v/t39.30808-6/464141573_9049136085097563_3412203625803236568_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=cf85f3&_nc_ohc=b6KjiKVgbqcQ7kNvwE4jM-a&_nc_oc=Admd70ZDaKUUTulQH_S9fd9LgUTre7JJT8OGwrOtJmJ_D_-PyZ8zafEVI9e5lf1Q45I&_nc_zt=23&_nc_ht=scontent.fmnl17-2.fna&_nc_gid=31e4E7YQ6uuXo-0kozO_gg&oh=00_AfHOLsORzpC6VOHfZwkma0DtkBpTTtYPW87x90wWu3q4zw&oe=680D94CC" alt="Health Education" class="img-fluid rounded-3 mb-4 mb-md-0">
             </div>
             <div class="col-md-6">
-                <h5 class="fw-bold mb-3" style="color: #0d6efd;">Health Monitoring and Follow-ups</h5>
+                <h5 class="fw-bold mb-3" style="color: #0d6efd;">Health Education </h5>
                 <hr class="w-100 mb-3">
-                <p>With our Health Monitoring and Follow-up service, we’re all about being proactive with your care.
-                    By regularly checking in on your health and offering quick support, we aim to keep you in great
-                    shape especially if you’re dealing with long-term conditions, pregnancy, or recovering from a
-                    previous medication or treatments</p>
+                <p>Making healthier health decisions can sometimes be as simple as having the appropriate information.  
+                   Our health education programs are designed to empower you, whether you're learning how to eat healthier,
+                   avoid diseases, manage stress, or care for chronic medical conditions.  We provide helpful recommendations 
+                   in straightforward manner and welcome queries. It's your health; we're just here to assist guide you.</p>
             </div>
         </div>
 
-        <!-- Emergency Triage Support -->
+        <!-- Family Planning -->
         <div class="row service-row align-items-center service-content mb-5">
             <div class="col-md-6 order-md-2 image-container"> 
-                <img src="https://img.freepik.com/premium-photo/tablet-typing-doctor-hands-hospital-clinic-management-healthcare-software-research-search-online-services-night-review-medical-professional-worker-digital-technology_590464-215059.jpg" alt="Emergency Triage Support" class="img-fluid rounded-3 mb-4 mb-md-0">
+                <img src="https://philippines.unfpa.org/sites/default/files/JennyHilario_0.jpg" alt="Family Planning" class="img-fluid rounded-3 mb-4 mb-md-0">
             </div>
             <div class="col-md-6 order-md-1">
-                <h5 class="fw-bold mb-3" style="color: #0d6efd;">Emergency Triage Support</h5>
+                <h5 class="fw-bold mb-3" style="color: #0d6efd;">Family Planning</h5>
                 <hr class="w-100 mb-3">
-                <p>The purpose of our user-friendly and safe Patient Registration and Profile Management system
-                    is to make your medical experience more efficient. A unique digital health profile, which
-                    serves as a central repository for all of your medical data, will be created for you upon
-                    registration. Your contact information, medical history, allergies, current medications,
-                    and previous illnesses are just a few of the important details you can easily keep and
-                    manage with this profile.</p>
-            </div>
-        </div>
-
-        <!-- Health Education and Awareness -->
-        <div class="row service-row align-items-center service-content mb-5">
-            <div class="col-md-6 image-container"> 
-                <img src="https://agedcareguide-assets.imgix.net/news/articles/wp/Getdeadset.jpg?fm=pjpg&w=1200&h=640&q=65" alt="Health Education and Awareness" class="img-fluid rounded-3 mb-4 mb-md-0">
-            </div>
-            <div class="col-md-6">
-                <h5 class="fw-bold mb-3" style="color: #0d6efd;">Health Education and Awareness</h5>
-                <hr class="w-100 mb-3">
-                <p>We take care of your health not just throughout consultations and therapies,
-                    but also by assisting you in making wise decisions regarding your health.
-                    Our Health Education & Awareness service makes useful information that
-                    encourages healthy living and warns off illness easily accessible.
-                    We go over essential topics like cleanliness, providing you with helpful
-                    advice on handwashing, sanitation, and other methods to protect your family
-                    from diseases. Along with sharing the most recent information on immunizations,
-                    we also address frequently asked issues, explain their significance, and offer
-                    recommended injection regimens.</p>
-            </div>
-        </div>
-
-        <!-- Teleconsultation -->
-        <div class="row service-row align-items-center service-content mb-5">
-            <div class="col-md-6 order-md-2 image-container"> 
-                <img src="https://img.freepik.com/free-photo/medium-shot-employee-holding-tablet_23-2149045998.jpg" alt="Teleconsultation" class="img-fluid rounded-3 mb-4 mb-md-0">
-            </div>
-            <div class="col-md-6 order-md-1">
-                <h5 class="fw-bold mb-3" style="color: #0d6efd">Teleconsultation (Chat/Video Call)</h5>
-                <hr class="w-100 mb-3">
-                <p>With the help of technology, our teleconsultation service provides healthcare to you.
-                    Through video conversations and chat, you may communicate with medical professionals
-                    and receive diagnosis and guidance from the comfort of your own home. You won't have
-                    to waste time traveling to the clinic just to get consultation from a professional.</p>
+                <p>Planning a family is a personal and significant decision, and we are here to help you with respect and care. 
+                   If you're looking for birth control alternatives, considering spacing pregnancies, or simply want to learn more,
+                   we'll give you with clear, discreet, and judgment-free information.  You might inquire about pills, injectables, 
+                   IUDs, or natural treatments that suit your lifestyle and values.  We'll assist you in making the greatest decision 
+                   for both you and your spouse.</p>
             </div>
         </div>
 
@@ -209,6 +180,7 @@
     </script>
 
     <?php include './attrib/footer.php'; ?>
+
 
 </body>
 </html>
