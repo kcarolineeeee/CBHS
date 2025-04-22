@@ -34,8 +34,27 @@
       z-index: 2;
     }
 
+    .welcome-section {
+            background-color: #f8f9fa;
+            border-radius: 10px;
+            padding: 40px;
+            margin-top: 50px;
+        }
+
+        .welcome-section h2 {
+            font-size: 2.5rem;
+            font-weight: 700;
+            color: #0d6efd;
+        }
+
+        .welcome-section p {
+            font-size: 1.1rem;
+            color: #333;
+            line-height: 1.6;
+        }
+
     a.btn-custom {
-      background-color: rgb(30, 117, 211);
+      background-color: #0d6efd;
       color: white !important;
       border: none !important;
       padding: 10px 20px;
@@ -47,7 +66,7 @@
     }
 
     a.btn-custom:hover {
-      background-color: #0056b3;
+      background-color:#0d6efd;
       cursor: pointer;
     }
 
@@ -64,7 +83,7 @@
     .section-title {
       font-weight: 700;
       margin-bottom: 20px;
-      color: #007B8F;
+      color:#0d6efd;
     }
 
     .carousel-image {
@@ -100,12 +119,13 @@
 
     .health-tips-card h5 {
       font-weight: 700;
-      color: #007B8F;
+      color:#0d6efd;
     }
 
     .health-tips-card p {
       font-size: 1.1rem;
     }
+
   </style>
 </head>
 <body>
@@ -115,10 +135,16 @@
   <header class="hero">
     <div class="hero-content">
       <h1 class="display-4 fw-bold">Online Medical Consultation</h1>
-      <p class="lead">Your health, our priority—right from your home.</p>
+      <p class="lead">Your health, our priority right from your home.</p>
       <a href="appointment-public.php" class="btn btn-primary btn-lg mt-3">Book an Appointment</a>
     </div>
   </header>
+
+  <!-- Welcome Section -->
+  <section class="container text-center mt-5 p-4 bg-white rounded-card welcome-section">
+        <h2 class="section-title">Welcome to Barangay Health Connect</h2>
+        <p>Our mission is to make healthcare accessible to all residents of our barangay. Get connected with licensed medical professionals for online consultations, prescriptions, and wellness advice from the comfort of your home.</p>
+    </section>
 
     <!-- Services -->
     <section id="services" class="container mt-5">
