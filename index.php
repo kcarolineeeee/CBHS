@@ -239,7 +239,7 @@
       <div class="col-md-6 p-4">
         <h2 class="section-title">Health Blog & Tips</h2>
         <p>Stay updated with the latest in community health, wellness tips, and local health drives. Empower your wellness journey with expert advice.</p>
-        <a href="blog.php" class="btn btn-custom">Read More</a>
+        <a href="Blog-public.php" class="btn btn-custom">Read More</a>
       </div>
     </div>
   </section>
