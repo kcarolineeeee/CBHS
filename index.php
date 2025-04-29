@@ -6,6 +6,8 @@
   <title>Barangay Health Connect</title>
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" />
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css">
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet"> <!--icon link-->
+
   <style>
     body {
       font-family: 'Roboto', sans-serif;
@@ -125,6 +127,8 @@
     .health-tips-card p {
       font-size: 1.1rem;
     }
+    
+
 
   </style>
 </head>
@@ -146,76 +150,75 @@
         <p>Our mission is to make healthcare accessible to all residents of our barangay. Get connected with licensed medical professionals for online consultations, prescriptions, and wellness advice from the comfort of your home.</p>
     </section>
 
-    <!-- Services -->
-    <section id="services" class="container mt-5">
-    <h2 class="section-title text-center">Our Services</h2>
-    <div class="row text-center">
-        <div class="col-md-3 mb-4">
-        <div class="bg-white p-4 rounded-card">
-            <i class="bi bi-person-circle icon-box"></i>
-            <h5 class="mt-3">Online Medical Consultation</h5>
-            <p>Consult with licensed doctors online, safely and conveniently.</p>
-            <a href="service-public.php#online-consultation" class="btn btn-custom">Read More</a>
+   
+<!-- Services Section -->
+<section id="services" class="container mt-5">
+  <h2 class="section-title text-center">Our Services</h2>
+  <div class="row text-center">
+    <!-- First row of 3 boxes -->
+    <div class="col-md-4 mb-4">
+      <div class="bg-white p-4 rounded-card d-flex flex-column" style="height: 100%;">
+        <div class="d-flex justify-content-center align-items-center" style="flex-grow: 1;">
+          <i class="fas fa-stethoscope mb-4" style="font-size: 50px; color: #0d6efd;"></i>
         </div>
-        </div>
-        <div class="col-md-3 mb-4">
-        <div class="bg-white p-4 rounded-card">
-            <i class="bi bi-prescription icon-box"></i>
-            <h5 class="mt-3">E-Prescriptions</h5>
-            <p>Receive prescriptions directly on your device.</p>
-            <a href="service-public.php#e-prescriptions" class="btn btn-custom">Read More</a>
-        </div>
-        </div>
-        <div class="col-md-3 mb-4">
-        <div class="bg-white p-4 rounded-card">
-            <i class="bi bi-calendar-check icon-box"></i>
-            <h5 class="mt-3">Appointment Scheduling</h5>
-            <p>Book checkups with ease—no queues, no hassle.</p>
-            <a href="service-public.php#appointment-scheduling" class="btn btn-custom">Read More</a>
-        </div>
-        </div>
-        <div class="col-md-3 mb-4">
-        <div class="bg-white p-4 rounded-card">
-            <i class="bi bi-folder2-open icon-box"></i>
-            <h5 class="mt-3">Patient Registration & Records</h5>
-            <p>Securely store and access your health history online.</p>
-            <a href="service-public.php#medical-records" class="btn btn-custom">Read More</a>
-        </div>
-        </div>
-        <div class="col-md-3 mb-4">
-        <div class="bg-white p-4 rounded-card">
-            <i class="bi bi-clipboard2-pulse icon-box"></i>
-            <h5 class="mt-3">Health Monitoring & Follow-Ups</h5>
-            <p>Stay on track with your health through regular check-ins.</p>
-            <a href="service-public.php#health-monitoring" class="btn btn-custom">Read More</a>
-        </div>
-        </div>
-        <div class="col-md-3 mb-4">
-        <div class="bg-white p-4 rounded-card">
-            <i class="bi bi-exclamation-triangle icon-box"></i>
-            <h5 class="mt-3">Emergency Triage Support</h5>
-            <p>Get guidance on urgent symptoms before heading to the ER.</p>
-            <a href="service-public.php#triage-support" class="btn btn-custom">Read More</a>
-        </div>
-        </div>
-        <div class="col-md-3 mb-4">
-        <div class="bg-white p-4 rounded-card">
-            <i class="bi bi-journal-medical icon-box"></i>
-            <h5 class="mt-3">Health Education & Awareness</h5>
-            <p>Learn more about staying healthy with expert tips and news.</p>
-            <a href="service-public.php#health-education" class="btn btn-custom">Read More</a>
-        </div>
-        </div>
-        <div class="col-md-3 mb-4">
-        <div class="bg-white p-4 rounded-card">
-            <i class="bi bi-camera-video icon-box"></i>
-            <h5 class="mt-3">Teleconsultation (Chat/Video Call)</h5>
-            <p>Connect with doctors in real time via chat or video call.</p>
-            <a href="service-public.php#teleconsultation" class="btn btn-custom">Read More</a>
-        </div>
-        </div>
+        <h5>Primary Health Consultations</h5>
+        <p>Consult with doctors from the comfort of your home.</p>
+      </div>
     </div>
-    </section>
+    <div class="col-md-4 mb-4">
+      <div class="bg-white p-4 rounded-card d-flex flex-column" style="height: 100%;">
+        <div class="d-flex justify-content-center align-items-center" style="flex-grow: 1;">
+          <i class="fas fa-shield-alt mb-4" style="font-size: 50px; color: #0d6efd;"></i>
+        </div>
+        <h5>Immunizations</h5>
+        <p>Access medical records online and securely.</p>
+      </div>
+    </div>
+    <div class="col-md-4 mb-4">
+      <div class="bg-white p-4 rounded-card d-flex flex-column" style="height: 100%;">
+        <div class="d-flex justify-content-center align-items-center" style="flex-grow: 1;">
+          <i class="fas fa-apple-alt mb-4" style="font-size: 50px; color: #0d6efd;"></i>
+        </div>
+        <h5>Nutrition Programs</h5>
+        <p>Monitor your health status remotely with our tools.</p>
+      </div>
+    </div>
+
+    <!-- Second row of 3 boxes -->
+    <div class="col-md-4 mb-4">
+      <div class="bg-white p-4 rounded-card d-flex flex-column" style="height: 100%;">
+        <div class="d-flex justify-content-center align-items-center" style="flex-grow: 1;">
+          <i class="fas fa-hands-helping mb-4" style="font-size: 50px; color: #0d6efd;"></i>
+        </div>
+        <h5>Environmental and Sanitation Services</h5>
+        <p>Ensure environmental health and sanitation standards.</p>
+      </div>
+    </div>
+    <div class="col-md-4 mb-4">
+      <div class="bg-white p-4 rounded-card d-flex flex-column" style="height: 100%;">
+        <div class="d-flex justify-content-center align-items-center" style="flex-grow: 1;">
+          <i class="fas fa-book-open mb-4" style="font-size: 50px; color: #0d6efd;"></i>
+        </div>
+        <h5>Health Education</h5>
+        <p>Learn more about staying healthy with expert advice.</p>
+      </div>
+    </div>
+    <div class="col-md-4 mb-4">
+      <div class="bg-white p-4 rounded-card d-flex flex-column" style="height: 100%;">
+        <div class="d-flex justify-content-center align-items-center" style="flex-grow: 1;">
+          <i class="fas fa-heart mb-4" style="font-size: 50px; color: #0d6efd;"></i>
+        </div>
+        <h5>Family Planning</h5>
+        <p>Access family planning services for healthier living.</p>
+      </div>
+    </div>
+  </div>
+
+  <!-- See More Button -->
+  <div class="text-center mt-4">
+    <a href="service-public.php" class="btn btn-primary btn-sm">See More</a>
+  </div>
+</section>
 
 
   <!-- Blog Section -->
@@ -224,14 +227,8 @@
       <div class="col-md-6">
         <div id="blogCarousel" class="carousel slide" data-bs-ride="carousel">
           <div class="carousel-inner">
-            <div class="carousel-item active">
-              <img src="https://ik.imagekit.io/tvlk/loc-asset/gNr3hLh55ZCkPJisyxFK-v9MmzxPu57ZRVI+10VZ2S4b1PNW4T++cbA6yK4gzhAhs9o2HLZ9vs7gy3rpcIU+oKi5EygzQLRjTUv7fRblEVA=/images/1525320105800.jpeg" class="carousel-image" alt="Blog 1">
-            </div>
             <div class="carousel-item">
               <img src="https://gttp.images.tshiftcdn.com/357067/x/0/baguio.jpg" class="carousel-image" alt="Blog 2">
-            </div>
-            <div class="carousel-item">
-              <img src="https://via.placeholder.com/400x400?text=Health+Blog" class="carousel-image" alt="Blog 3">
             </div>
           </div>
         </div>
@@ -242,50 +239,6 @@
         <a href="Blog-public.php" class="btn btn-custom">Read More</a>
       </div>
     </div>
-  </section>
-
-  <!-- Health Tips Section -->
-  <section class="container mt-5 p-4 bg-white rounded-card">
-    <h2 class="section-title text-center">Health Tips of the Week</h2>
-    <div class="row">
-      <div class="col-md-4 mb-4">
-        <div class="health-tips-card">
-          <h5>Hot Temperature</h5>
-          <p>🌞 Stay hydrated by drinking plenty of water. Avoid long exposure to direct sunlight. Wear lightweight, light-colored clothes.</p>
-        </div>
-      </div>
-      <div class="col-md-4 mb-4">
-        <div class="health-tips-card">
-          <h5>Cold Temperature</h5>
-          <p>🧣 Keep warm by wearing layers of clothing. Drink warm beverages like tea or soup. Avoid staying outside for long periods.</p>
-        </div>
-      </div>
-      <div class="col-md-4 mb-4">
-        <div class="health-tips-card">
-          <h5>General Health Tips</h5>
-          <p>💤 Get at least 7-8 hours of sleep to boost your immune system. 🧼 Wash your hands regularly. 🥦 Eat more fruits and vegetables!</p>
-        </div>
-      </div>
-    </div>
-    <div class="row">
-      <div class="col-md-4 mb-4">
-        <div class="health-tips-card">
-          <h5>Common Illnesses in the Philippines</h5>
-          <p>🤧 Flu and colds are common during the rainy season. Keep a distance from sick individuals and wash your hands frequently.</p>
-        </div>
-      </div>
-      <div class="col-md-4 mb-4">
-        <div class="health-tips-card">
-          <h5>Dengue Prevention</h5>
-          <p>🦟 Use mosquito repellents and eliminate stagnant water sources to prevent mosquito breeding. Wear long sleeves and pants when possible.</p>
-        </div>
-      </div>
-      <div class="col-md-4 mb-4">
-        <div class="health-tips-card">
-            <h5>Prevent Heat Stroke</h5>
-            <p>☀️ Stay in shaded or air-conditioned places, drink water frequently, and avoid strenuous outdoor activities during peak heat hours. Watch for dizziness or nausea.</p>
-        </div>
-      </div>
   </section>
 
   <!-- Testimonials Section -->
@@ -314,7 +267,7 @@
   </section>
 
   <!-- FAQ Section -->
-  <section id="faq" class="container mt-5">
+  <section id="faq" class="container mt-5" style="margin-bottom: 40px;">
     <h2 class="text-center fw-bold mb-4">Frequently Asked Questions</h2>
     <div class="accordion" id="faqAccordion">
       <div class="accordion-item">
