@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -27,7 +28,7 @@
             <h2>Who we are</h2>
         </div>  
         <div class="row">
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed fermentum magna sapien, in accumsan dui blandit a. Maecenas pulvinar rutrum lobortis. Curabitur fermentum semper est at cursus. Integer consectetur augue vitae libero scelerisque, vel gravida ligula pellentesque. Mauris nec consequat erat. Cras lobortis massa ante, id mollis eros semper vitae. Maecenas tincidunt massa at risus ornare placerat. Suspendisse vel sem sit amet enim facilisis fringilla. Mauris ornare felis eros, non tempor orci porta ac. Fusce ac quam vitae sem sodales fermentum eget eget quam. Curabitur vehicula interdum erat, non egestas metus posuere vel.</p>
+        <p style="text-align:justify;">The Barangay Ambiong Clinic is a dedicated community health center committed to providing accessible, affordable, and quality healthcare services to the residents of Ambiong, La Trinidad. We focus on preventive care, health education, and responsive treatment to ensure the well-being of every family in our barangay. Guided by compassion, professionalism, and a strong sense of community, we aim to promote a healthier, stronger Ambiong where healthcare is a right, not a privilege. Together with our skilled healthcare workers and community partners, we work hand-in-hand to build a brighter and healthier future for all.</p>
         </div> 
     </div>
 
@@ -45,14 +46,14 @@
         <div class="row">
             <div class="d-flex justify-content-around">
             <ul>
-        <li>Lorem ipsum dolor sit amet, consectetur</li>
-        <li>Lorem ipsum dolor sit amet, consectetur</li>
-        <li>Lorem ipsum dolor sit amet, consectetur</li>
+        <li>To provide affordable and reliable healthcare services.</li>
+        <li>To provide affordable and reliable healthcare services.</li>
+        <li>To make quality healthcare accessible to all.</li>
         </ul>
         <ul>
-        <li>Lorem ipsum dolor sit amet, consectetur</li>
-        <li>Lorem ipsum dolor sit amet, consectetur</li>
-        <li>Lorem ipsum dolor sit amet, consectetur</li>
+        <li>A community where every family enjoys good health.</li>
+        <li>The trusted center for wellness and healing in our barangay.</li>
+        <li>A healthier, stronger barangay through accessible care.</li>
     </ul>
             </div>
         </div>  
@@ -63,7 +64,12 @@
             <h2>History</h2>
         </div>  
         <div class="row">
-            <p>Vestibulum euismod, lectus eget suscipit ornare, nulla lorem efficitur arcu, id auctor turpis turpis at nisi. Ut iaculis purus vel leo convallis, sed dictum mi suscipit. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus in elit diam. Pellentesque sollicitudin sapien eget nisi cursus sodales. Nunc porttitor nunc tempor posuere mollis. Nullam at pharetra tellus. Sed a tempor est. Maecenas velit risus, luctus et vulputate in, maximus sit amet diam. Aenean egestas, felis vitae tempus pellentesque, risus ipsum malesuada magna, sit amet varius ante risus id libero. Cras ut mauris semper, euismod urna eu, malesuada ex. In efficitur, leo et fermentum porttitor, metus leo venenatis libero, vel interdum massa elit eu ipsum. Phasellus malesuada malesuada tortor vel ultrices. Sed sit amet urna leo.</p>
+            <p style="text-align:justify;">A long time ago, Barangay Ambiong was part of a vast expanse of land within La Trinidad, without a formal name. It wasn't until settlers from Kabayan, Bokod, Amburayan, Ampusongan, and Kibungan in Benguet arrived that the area began to form its identity. Most of these settlers were Ibalois and Kankanaeys. The name "Ambiong" is derived from the Ibaloi word "Ambiongan," which means "black carpet bees"—a reference to the bees that thrived in the area's lush hills and dense forests. These bees would often burrow into dead tree trunks to create their shelters. Up until the 1960s, Ambiong remained a rich landscape teeming with flora and fauna, mainly serving as a place for hunting and food gathering. Originally part of Barangay Eastern Pico, Ambiong became a separate barangay in 1948 through Presidential Decree No. 3590 and P.D. No. 557.
+            <br>
+            <br>
+Today, Barangay Ambiong plays a vital role as a watershed area for both La Trinidad and Baguio City, with forests still covering about 50% of its land. In addition, the barangay is becoming well-known for the production of chrysanthemum cut flowers. Balancing environmental preservation with agricultural and economic growth remains a key challenge for planners and leaders. This socio-economic and physical profile has been created to provide essential baseline information about Barangay Ambiong, assessing its people's needs in areas such as livelihood, health, sanitation, peace and order, education, housing, utilities, and civic participation. It aims to guide decision-makers at all levels in crafting programs and initiatives for the sustainable development of the barangay.
+
+</p>
         </div>
     </div>
     
@@ -78,3 +84,6 @@
     <?php include './attrib/footer.php'; ?>
 </body>
 </html>
+apps-fileview.texmex_20250417.00_p3
+about-public.php
+Displaying about-public.php.
