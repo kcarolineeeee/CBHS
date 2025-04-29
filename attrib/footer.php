@@ -113,8 +113,7 @@
     <div class="col">
       <p><strong>Location</strong></p>
       <div class="location">
-      <iframe src="https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d956.7067669382456!2d120.60568677003633!3d16.43360689505748!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sbarangay%20ambiong%20la%20trinidad%20benguet!5e0!3m2!1sen!2sph!4v1745920451689!5m2!1sen!2sph" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-      </div>
+      <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d676.4935046747587!2d120.60591970966559!3d16.4337039031136!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3391a3efbcac4f5d%3A0xe00bee362c38638e!2sAmbiong%20Barangay%20Health%20Station!5e0!3m2!1sen!2sph!4v1745920836582!5m2!1sen!2sph" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
     </div>
   </div>
 
