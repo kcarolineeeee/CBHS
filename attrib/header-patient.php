@@ -144,7 +144,7 @@ if (isset($_GET['logout'])) {
         <div class="collapse navbar-collapse" id="navbarContent">
           <ul class="navbar-nav ms-auto mb-2 mb-lg-0 align-items-center">
             <li class="nav-item">
-              <a class="nav-link" href="#">HOME</a>
+              <a class="nav-link" href="../index.php">HOME</a>
             </li>
             <li class="nav-item">
               <a class="nav-link" href="#">BLOG</a>
@@ -188,7 +188,7 @@ if (isset($_GET['logout'])) {
             <a class="nav-link position-relative" href="#" id="notificationDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                 <i class="bi bi-bell" style="font-size: 1.25rem;"></i>
                 <span class="position-absolute top-0 start-100 translate-middle badge rounded-pill bg-danger">
-                3
+                
                 <span class="visually-hidden">unread notifications</span>
                 </span>
             </a>

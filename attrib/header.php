@@ -128,22 +128,22 @@
         <div class="collapse navbar-collapse" id="navbarContent">
           <ul class="navbar-nav ms-auto mb-2 mb-lg-0 align-items-center">
             <li class="nav-item">
-              <a class="nav-link" href="index.php">HOME</a>
+              <a class="nav-link" href="../index.php">HOME</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="service-public.php">SERVICES</a>
+              <a class="nav-link" href="../service-public.php">SERVICES</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="appointment-public.php">APPOINTMENT</a>
+              <a class="nav-link" href="../appointment-public.php">APPOINTMENT</a>
             </li>
             <li class="nav-item">
               <a class="nav-link" href="#">BLOG</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="about-public.php">ABOUT&nbsp;US</a>
+              <a class="nav-link" href="../about-public.php">ABOUT&nbsp;US</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="about-public.php">FAQs</a>
+              <a class="nav-link" href="../about-public.php">FAQs</a>
             </li>
 <!-- REGISTER Dropdown -->
 <li class="nav-item dropdown">

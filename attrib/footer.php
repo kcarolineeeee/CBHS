@@ -113,7 +113,7 @@
     <div class="col">
       <p><strong>Location</strong></p>
       <div class="location">
-        <img src="https://via.placeholder.com/150x100.png?text=Map" alt="Google Map Pin Location">
+      <iframe src="https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d956.7067669382456!2d120.60568677003633!3d16.43360689505748!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sbarangay%20ambiong%20la%20trinidad%20benguet!5e0!3m2!1sen!2sph!4v1745920451689!5m2!1sen!2sph" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
       </div>
     </div>
   </div>
